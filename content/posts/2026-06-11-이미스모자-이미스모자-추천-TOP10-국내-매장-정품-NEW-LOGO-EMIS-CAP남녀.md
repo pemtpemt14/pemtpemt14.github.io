@@ -14,7 +14,7 @@ cover:
   relative: false
 images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/f22f/b7d537d612eaed4e805c9d790170003b605d52b3a1c92b95c8d46e289ed7.webp"]
 ---
-
+<style>@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0 12px!important}.cpg-btn{display:block!important;width:100%;box-sizing:border-box;text-align:center;padding:14px!important;font-size:16px!important}}</style>
 **이미스모자** 카테고리에서 최근 데이터 기준 가장 많이 선택되는 상품 10개를 모았습니다.
 
 > 스타일리시한 데일리 룩을 완성해 주는 이미스 모자는 심플한 로고 디자인과 트렌디한 핏으로 큰 인기를 끌고 있습니다. 이미스 모자를 선택할 때는 정품 여부와 로고 디자인, 그리고 본인에게 어울리는 색상 및 핏을 고려하는 것이 중요합니다. 다양한 코디에 매치하기 좋은 매력적인 제품들을 소개합니다.
@@ -36,7 +36,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 1위 — [국내 매장 정품] NEW LOGO EMIS CAP남녀공용 볼캡
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9526489533&traceid=V0-153&itemId=28404692711&vendorItemId=95355976968" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/f22f/b7d537d612eaed4e805c9d790170003b605d52b3a1c92b95c8d46e289ed7.webp" alt="1위 - [국내 매장 정품] NEW LOGO EMIS CAP남녀공용 볼캡 뉴로고모자" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9526489533&traceid=V0-153&itemId=28404692711&vendorItemId=95355976968" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/f22f/b7d537d612eaed4e805c9d790170003b605d52b3a1c92b95c8d46e289ed7.webp" alt="1위 - [국내 매장 정품] NEW LOGO EMIS CAP남녀공용 볼캡 뉴로고모자" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**[국내 매장 정품] NEW LOGO EMIS CAP남녀공용 볼캡 뉴로고모자**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9526489533&traceid=V0-153&itemId=28404692711&vendorItemId=95355976968)
 
@@ -47,7 +47,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 > **이 상품을 추천하는 이유**: 국내 매장 정품으로 신뢰할 수 있으며, 깔끔한 뉴로고 디자인과 합리적인 가격이 강점입니다. 데일리 볼캡으로 부담 없이 착용하기에 제격인 상품입니다.
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9526489533&traceid=V0-153&itemId=28404692711&vendorItemId=95355976968" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9526489533&traceid=V0-153&itemId=28404692711&vendorItemId=95355976968" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -55,7 +55,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 2위 — 프레쉬윈드 NY&JA 메쉬 오리지널 하드탑 프리미엄 러닝 골프
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9468092435&traceid=V0-153&itemId=28178747004&vendorItemId=95103465922" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/7e44/7c7c93285c0ae5e437160ce72e38fa0c8730fd57127f1ab8ea5e7edddcbb.png" alt="2위 - 프레쉬윈드 NY&JA 메쉬 오리지널 하드탑 프리미엄 러닝 골프 야구모자" style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9468092435&traceid=V0-153&itemId=28178747004&vendorItemId=95103465922" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/7e44/7c7c93285c0ae5e437160ce72e38fa0c8730fd57127f1ab8ea5e7edddcbb.png" alt="2위 - 프레쉬윈드 NY&JA 메쉬 오리지널 하드탑 프리미엄 러닝 골프 야구모자" style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**프레쉬윈드 NY&JA 메쉬 오리지널 하드탑 프리미엄 러닝 골프 야구모자**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9468092435&traceid=V0-153&itemId=28178747004&vendorItemId=95103465922)
 
@@ -66,7 +66,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 > **이 상품을 추천하는 이유**: 뛰어난 통기성을 자랑하는 메쉬 소재로 제작되어 골프나 러닝 등 야외 활동에 적합합니다. 가성비 높은 가격대로 부담 없는 스포티 룩 연출이 가능합니다.
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9468092435&traceid=V0-153&itemId=28178747004&vendorItemId=95103465922" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9468092435&traceid=V0-153&itemId=28178747004&vendorItemId=95103465922" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -74,7 +74,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 3위 — [국내매장판정품] EMIS 이미스 모자 뉴로고 이미스 볼캡(25
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9453545726&traceid=V0-153&itemId=28125146572&vendorItemId=90648374133" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/172d/349bc52ddbdc47c606f750693795c5b38a3456d49abc668f325f4cdd9b8e.jpg" alt="3위 - [국내매장판정품] EMIS 이미스 모자 뉴로고 이미스 볼캡(25년리뉴얼) + 이미스리유저블백" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9453545726&traceid=V0-153&itemId=28125146572&vendorItemId=90648374133" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/172d/349bc52ddbdc47c606f750693795c5b38a3456d49abc668f325f4cdd9b8e.jpg" alt="3위 - [국내매장판정품] EMIS 이미스 모자 뉴로고 이미스 볼캡(25년리뉴얼) + 이미스리유저블백" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**[국내매장판정품] EMIS 이미스 모자 뉴로고 이미스 볼캡(25년리뉴얼) + 이미스리유저블백**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9453545726&traceid=V0-153&itemId=28125146572&vendorItemId=90648374133)
 
@@ -85,7 +85,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 > **이 상품을 추천하는 이유**: 많은 리뷰가 증명하는 인기 상품으로 25년형 최신 리뉴얼 제품입니다. 국내 정품 패키지로 고급스러운 선물용이나 확실한 핏감을 원하는 분들께 적극 추천해 드립니다.
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9453545726&traceid=V0-153&itemId=28125146572&vendorItemId=90648374133" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9453545726&traceid=V0-153&itemId=28125146572&vendorItemId=90648374133" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -96,7 +96,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 4위 — 이미스 NEW LOGO EMIS CAP(RENEWAL)-BLAC
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9452745344&traceid=V0-153&itemId=28122416986&vendorItemId=95282896801" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/image_audit/prod/7d3d1383-3d01-45f3-b9a1-59dd0f1d5e01_fixing_v2_gemini_image_fixing.png" alt="4위 - 이미스 NEW LOGO EMIS CAP(RENEWAL)-BLACK" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9452745344&traceid=V0-153&itemId=28122416986&vendorItemId=95282896801" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/image_audit/prod/7d3d1383-3d01-45f3-b9a1-59dd0f1d5e01_fixing_v2_gemini_image_fixing.png" alt="4위 - 이미스 NEW LOGO EMIS CAP(RENEWAL)-BLACK" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**이미스 NEW LOGO EMIS CAP(RENEWAL)-BLACK**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9452745344&traceid=V0-153&itemId=28122416986&vendorItemId=95282896801)
 
@@ -105,7 +105,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: **36,900원**
 - 리뷰수: 22개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9452745344&traceid=V0-153&itemId=28122416986&vendorItemId=95282896801" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9452745344&traceid=V0-153&itemId=28122416986&vendorItemId=95282896801" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -113,7 +113,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 5위 — 뉴에라 남녀공용 CTO 940AF TR 베이직 뉴욕 양키스 모자
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8694851425&traceid=V0-153&itemId=25245769542&vendorItemId=92241765086" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/50143223942508-2da2b505-7187-4a99-b6cd-79de450c7807.jpg" alt="5위 - 뉴에라 남녀공용 CTO 940AF TR 베이직 뉴욕 양키스 모자 14707498" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8694851425&traceid=V0-153&itemId=25245769542&vendorItemId=92241765086" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/50143223942508-2da2b505-7187-4a99-b6cd-79de450c7807.jpg" alt="5위 - 뉴에라 남녀공용 CTO 940AF TR 베이직 뉴욕 양키스 모자 14707498" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**뉴에라 남녀공용 CTO 940AF TR 베이직 뉴욕 양키스 모자 14707498**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8694851425&traceid=V0-153&itemId=25245769542&vendorItemId=92241765086)
 
@@ -122,7 +122,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: **46,000원**
 - 리뷰수: 86개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8694851425&traceid=V0-153&itemId=25245769542&vendorItemId=92241765086" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8694851425&traceid=V0-153&itemId=25245769542&vendorItemId=92241765086" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -130,7 +130,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 6위 — 올끌레어 챙넓은 자외선차단 모자 벙거지모자 버킷햇
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8730809788&traceid=V0-153&itemId=25368605500&vendorItemId=92335879701" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/f730/578646c803f85a611e043ac540dcb0ef80c575c8a41362051711e0d7fe8a.jpg" alt="6위 - 올끌레어 챙넓은 자외선차단 모자 벙거지모자 버킷햇" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8730809788&traceid=V0-153&itemId=25368605500&vendorItemId=92335879701" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/f730/578646c803f85a611e043ac540dcb0ef80c575c8a41362051711e0d7fe8a.jpg" alt="6위 - 올끌레어 챙넓은 자외선차단 모자 벙거지모자 버킷햇" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**올끌레어 챙넓은 자외선차단 모자 벙거지모자 버킷햇**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8730809788&traceid=V0-153&itemId=25368605500&vendorItemId=92335879701)
 
@@ -139,7 +139,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~60,000원~~ → **9,900원** (83% 할인)
 - 리뷰수: 606개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8730809788&traceid=V0-153&itemId=25368605500&vendorItemId=92335879701" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8730809788&traceid=V0-153&itemId=25368605500&vendorItemId=92335879701" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -147,7 +147,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 7위 — 백화점상품 이미스 모자 emis 캡모자 남녀공용 볼캡 뉴로고 톤
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9103426164&traceid=V0-153&itemId=26762563216&vendorItemId=92090680730" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/4bb8/8fdd58be5215271241a05eb8fe725dcf3c0036f46274c66943d1547c95a9.jpg" alt="7위 - 백화점상품 이미스 모자 emis 캡모자 남녀공용 볼캡 뉴로고 톤온톤 와펜 +사은품증정 종료" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9103426164&traceid=V0-153&itemId=26762563216&vendorItemId=92090680730" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/4bb8/8fdd58be5215271241a05eb8fe725dcf3c0036f46274c66943d1547c95a9.jpg" alt="7위 - 백화점상품 이미스 모자 emis 캡모자 남녀공용 볼캡 뉴로고 톤온톤 와펜 +사은품증정 종료" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**백화점상품 이미스 모자 emis 캡모자 남녀공용 볼캡 뉴로고 톤온톤 와펜 +사은품증정 종료**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9103426164&traceid=V0-153&itemId=26762563216&vendorItemId=92090680730)
 
@@ -156,7 +156,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: **66,900원**
 - 리뷰수: 51개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9103426164&traceid=V0-153&itemId=26762563216&vendorItemId=92090680730" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9103426164&traceid=V0-153&itemId=26762563216&vendorItemId=92090680730" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -164,7 +164,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 8위 — 국내정품 이미스 EMIS 모자 뉴로고 볼캡
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9478094270&traceid=V0-153&itemId=28217211972&vendorItemId=95171212980" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/ee75/5ec0d2517ce74a4f96df0ed8c406f7deb1943c1d1d678ca3fddc8c214f0c.png" alt="8위 - 국내정품 이미스 EMIS 모자 뉴로고 볼캡" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9478094270&traceid=V0-153&itemId=28217211972&vendorItemId=95171212980" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/ee75/5ec0d2517ce74a4f96df0ed8c406f7deb1943c1d1d678ca3fddc8c214f0c.png" alt="8위 - 국내정품 이미스 EMIS 모자 뉴로고 볼캡" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**국내정품 이미스 EMIS 모자 뉴로고 볼캡**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9478094270&traceid=V0-153&itemId=28217211972&vendorItemId=95171212980)
 
@@ -173,7 +173,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~89,000원~~ → **63,000원** (29% 할인)
 - 리뷰수: 11개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9478094270&traceid=V0-153&itemId=28217211972&vendorItemId=95171212980" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9478094270&traceid=V0-153&itemId=28217211972&vendorItemId=95171212980" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -181,7 +181,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 9위 — 위베이지크 1+1 돌돌이 라탄 여성 자외선차단 썬캡 모자
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8082488848&traceid=V0-153&itemId=28296684421&vendorItemId=89832518235" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/image_audit/stage/manual/976de59cb2689a6f6887c6ead4234f4910ad99d63af28b17715eeb1394cb_1780884246211.png" alt="9위 - 위베이지크 1+1 돌돌이 라탄 여성 자외선차단 썬캡 모자" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8082488848&traceid=V0-153&itemId=28296684421&vendorItemId=89832518235" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/image_audit/stage/manual/976de59cb2689a6f6887c6ead4234f4910ad99d63af28b17715eeb1394cb_1780884246211.png" alt="9위 - 위베이지크 1+1 돌돌이 라탄 여성 자외선차단 썬캡 모자" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**위베이지크 1+1 돌돌이 라탄 여성 자외선차단 썬캡 모자**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8082488848&traceid=V0-153&itemId=28296684421&vendorItemId=89832518235)
 
@@ -190,7 +190,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~62,500원~~ → **12,500원** (80% 할인)
 - 리뷰수: 462개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8082488848&traceid=V0-153&itemId=28296684421&vendorItemId=89832518235" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=8082488848&traceid=V0-153&itemId=28296684421&vendorItemId=89832518235" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -198,7 +198,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 10위 — 이미스 NEW LOGO BALL CAP(RENEWAL)-BLUE
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9518094018&traceid=V0-153&itemId=28370879092&vendorItemId=95323243544" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/image_audit/prod/ea753ba9-75a8-46b9-85dc-f52c547bf7cb_fixing_v2.png" alt="10위 - 이미스 NEW LOGO BALL CAP(RENEWAL)-BLUE" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9518094018&traceid=V0-153&itemId=28370879092&vendorItemId=95323243544" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/image_audit/prod/ea753ba9-75a8-46b9-85dc-f52c547bf7cb_fixing_v2.png" alt="10위 - 이미스 NEW LOGO BALL CAP(RENEWAL)-BLUE" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**이미스 NEW LOGO BALL CAP(RENEWAL)-BLUE**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9518094018&traceid=V0-153&itemId=28370879092&vendorItemId=95323243544)
 
@@ -207,7 +207,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: **36,900원**
 - 리뷰수: 10개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9518094018&traceid=V0-153&itemId=28370879092&vendorItemId=95323243544" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9518094018&traceid=V0-153&itemId=28370879092&vendorItemId=95323243544" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 

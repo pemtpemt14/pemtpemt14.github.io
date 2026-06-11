@@ -14,7 +14,7 @@ cover:
   relative: false
 images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/1470/0ee4efb1f9b49edb5ea16da3a23374762123aaf9875d2bc86b82cbaa01f7.jpg"]
 ---
-
+<style>@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0 12px!important}.cpg-btn{display:block!important;width:100%;box-sizing:border-box;text-align:center;padding:14px!important;font-size:16px!important}}</style>
 **헤븐리젤리** 카테고리에서 최근 데이터 기준 가장 많이 선택되는 상품 10개를 모았습니다.
 
 > 여름철 스타일과 편안함을 동시에 잡고 싶다면 헤븐리젤리 슈즈를 추천합니다. 이 슈즈는 유연하고 부드러운 젤리 소재로 제작되어 비 오는 날에도 걱정 없이 신을 수 있으며, 감각적인 디자인 덕분에 데일리룩에 멋진 포인트가 됩니다. 착화감과 실용성, 세련된 스타일까지 모두 만족시켜 드릴 것을 약속합니다.
@@ -29,7 +29,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 1위 — HEAVENLY JELLY Sleek Leo Clear
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9543916578&traceid=V0-153&itemId=28471050505&vendorItemId=95435821607" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/1470/0ee4efb1f9b49edb5ea16da3a23374762123aaf9875d2bc86b82cbaa01f7.jpg" alt="1위 - HEAVENLY JELLY Sleek Leo Clear" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9543916578&traceid=V0-153&itemId=28471050505&vendorItemId=95435821607" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/1470/0ee4efb1f9b49edb5ea16da3a23374762123aaf9875d2bc86b82cbaa01f7.jpg" alt="1위 - HEAVENLY JELLY Sleek Leo Clear" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**HEAVENLY JELLY Sleek Leo Clear**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9543916578&traceid=V0-153&itemId=28471050505&vendorItemId=95435821607)
 
@@ -39,7 +39,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 > **이 상품을 추천하는 이유**: HEAVENLY JELLY Sleek Leo Clear는 투명한 레오파드 패턴이 매력적입니다. 독특한 디자인으로 어떤 옷에나 잘 어울리며, 합리적인 가격이 장점입니다.
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9543916578&traceid=V0-153&itemId=28471050505&vendorItemId=95435821607" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9543916578&traceid=V0-153&itemId=28471050505&vendorItemId=95435821607" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -47,7 +47,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 2위 — 크록스 클래식 발레 블랙 플랫슈즈 여성 샌들 211994
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9567267191&traceid=V0-153&itemId=28553679415&vendorItemId=95498400334" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/image_audit/stage/manual/8fe8acf4e2255ffcee750dc1ae581ea6c3d30983a93a5d31bc224c837645_1780041366191.jpg" alt="2위 - 크록스 클래식 발레 블랙 플랫슈즈 여성 샌들 211994" style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9567267191&traceid=V0-153&itemId=28553679415&vendorItemId=95498400334" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/image_audit/stage/manual/8fe8acf4e2255ffcee750dc1ae581ea6c3d30983a93a5d31bc224c837645_1780041366191.jpg" alt="2위 - 크록스 클래식 발레 블랙 플랫슈즈 여성 샌들 211994" style="max-width:280px;height:auto;float:right;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**크록스 클래식 발레 블랙 플랫슈즈 여성 샌들 211994**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9567267191&traceid=V0-153&itemId=28553679415&vendorItemId=95498400334)
 
@@ -57,7 +57,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 > **이 상품을 추천하는 이유**: 크록스 클래식 발레 블랙 플랫슈즈는 뛰어난 편안함과 실용성을 자랑합니다. 가벼운 무게와 부드러운 쿠션감으로 발이 편안하며, 클래식한 블랙 색상이라 데일리 샌들로 좋습니다.
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9567267191&traceid=V0-153&itemId=28553679415&vendorItemId=95498400334" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9567267191&traceid=V0-153&itemId=28553679415&vendorItemId=95498400334" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -65,7 +65,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 3위 — HEAVENLY JELLY xanaduary SET Allure
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9543916116&traceid=V0-153&itemId=28471048359&vendorItemId=95421350146" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/9999/b67b7302fb16425841ec6dfcff26470e6de28e98acd53099c6e6fc66e559.jpg" alt="3위 - HEAVENLY JELLY xanaduary SET Allure Glitter Silver" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9543916116&traceid=V0-153&itemId=28471048359&vendorItemId=95421350146" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/9999/b67b7302fb16425841ec6dfcff26470e6de28e98acd53099c6e6fc66e559.jpg" alt="3위 - HEAVENLY JELLY xanaduary SET Allure Glitter Silver" style="max-width:280px;height:auto;float:left;margin:0 16px 12px 0;border-radius:8px;"></a>
 
 [**HEAVENLY JELLY xanaduary SET Allure Glitter Silver**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9543916116&traceid=V0-153&itemId=28471048359&vendorItemId=95421350146)
 
@@ -75,7 +75,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 > **이 상품을 추천하는 이유**: HEAVENLY JELLY xanaduary SET Allure Glit은 한정판 콜라보 제품으로 특별함을 선사합니다. 고급스러운 글리터 디자인이 돋보이며 소장 가치가 높은 패션 아이템입니다.
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9543916116&traceid=V0-153&itemId=28471048359&vendorItemId=95421350146" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9543916116&traceid=V0-153&itemId=28471048359&vendorItemId=95421350146" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:8px 18px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -86,7 +86,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 4위 — HEAVENLY JELLY Mule Classic Black
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9543916220&traceid=V0-153&itemId=28471048786&vendorItemId=95435822271" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/b5cb/c8ec9d73a203f4417558d9f24700307841486634095e3011a62f2bf4017c.jpg" alt="4위 - HEAVENLY JELLY Mule Classic Black" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9543916220&traceid=V0-153&itemId=28471048786&vendorItemId=95435822271" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/b5cb/c8ec9d73a203f4417558d9f24700307841486634095e3011a62f2bf4017c.jpg" alt="4위 - HEAVENLY JELLY Mule Classic Black" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**HEAVENLY JELLY Mule Classic Black**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9543916220&traceid=V0-153&itemId=28471048786&vendorItemId=95435822271)
 
@@ -94,7 +94,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 - 가격: ~~44,500원~~ → **36,530원** (17% 할인)
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9543916220&traceid=V0-153&itemId=28471048786&vendorItemId=95435822271" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9543916220&traceid=V0-153&itemId=28471048786&vendorItemId=95435822271" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -102,7 +102,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 5위 — onyou 알라스타일 여름 비즈메쉬 메리제인 블링블링 슈즈
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9533265360&traceid=V0-153&itemId=28431778191&vendorItemId=95382655622" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/8e00/4d91084db839ce7fc4ee6f646aa9e1f6bfefa398d8f0c334289e27887078.jpg" alt="5위 - onyou 알라스타일 여름 비즈메쉬 메리제인 블링블링 슈즈" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9533265360&traceid=V0-153&itemId=28431778191&vendorItemId=95382655622" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/8e00/4d91084db839ce7fc4ee6f646aa9e1f6bfefa398d8f0c334289e27887078.jpg" alt="5위 - onyou 알라스타일 여름 비즈메쉬 메리제인 블링블링 슈즈" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**onyou 알라스타일 여름 비즈메쉬 메리제인 블링블링 슈즈**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9533265360&traceid=V0-153&itemId=28431778191&vendorItemId=95382655622)
 
@@ -110,7 +110,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 - 가격: ~~71,500원~~ → **68,500원** (4% 할인)
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9533265360&traceid=V0-153&itemId=28431778191&vendorItemId=95382655622" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9533265360&traceid=V0-153&itemId=28431778191&vendorItemId=95382655622" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -118,7 +118,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 6위 — 데이프릴 여성용 마카롱 젤리 아쿠아 슬리퍼 8042
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=5540481639&traceid=V0-153&itemId=8725271080&vendorItemId=88409795630" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/3c62/493d986ed3da1b4a2ab3480b72e53f52563b9b3b457d2861b1f3690a678a.jpg" alt="6위 - 데이프릴 여성용 마카롱 젤리 아쿠아 슬리퍼 8042" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=5540481639&traceid=V0-153&itemId=8725271080&vendorItemId=88409795630" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/3c62/493d986ed3da1b4a2ab3480b72e53f52563b9b3b457d2861b1f3690a678a.jpg" alt="6위 - 데이프릴 여성용 마카롱 젤리 아쿠아 슬리퍼 8042" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**데이프릴 여성용 마카롱 젤리 아쿠아 슬리퍼 8042**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=5540481639&traceid=V0-153&itemId=8725271080&vendorItemId=88409795630)
 
@@ -127,7 +127,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~12,900원~~ → **3,000원** (69% 할인)
 - 리뷰수: 309개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=5540481639&traceid=V0-153&itemId=8725271080&vendorItemId=88409795630" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=5540481639&traceid=V0-153&itemId=8725271080&vendorItemId=88409795630" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -135,7 +135,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 7위 — HEAVENLY JELLY [@xanaduary SET] All
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9547916024&traceid=V0-153&itemId=28485794386&vendorItemId=95435882513" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/f175/bcb0a2a33d86679dfd72c44907d24102cab6dc847b32d0b08708d90ebb5a.jpg" alt="7위 - HEAVENLY JELLY [@xanaduary SET] Allure Glitter Silver" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9547916024&traceid=V0-153&itemId=28485794386&vendorItemId=95435882513" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/f175/bcb0a2a33d86679dfd72c44907d24102cab6dc847b32d0b08708d90ebb5a.jpg" alt="7위 - HEAVENLY JELLY [@xanaduary SET] Allure Glitter Silver" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**HEAVENLY JELLY [@xanaduary SET] Allure Glitter Silver**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9547916024&traceid=V0-153&itemId=28485794386&vendorItemId=95435882513)
 
@@ -143,7 +143,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 - 가격: ~~153,000원~~ → **125,490원** (17% 할인)
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9547916024&traceid=V0-153&itemId=28485794386&vendorItemId=95435882513" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9547916024&traceid=V0-153&itemId=28485794386&vendorItemId=95435882513" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -151,7 +151,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 8위 — HEAVENLY JELLY Classic Suede Red
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9547903162&traceid=V0-153&itemId=28485762319&vendorItemId=95435850556" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/4078/6b76e01bed503109cd5749bd18daddce14067a7a419b271d2fe00e4f459b.jpg" alt="8위 - HEAVENLY JELLY Classic Suede Red" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9547903162&traceid=V0-153&itemId=28485762319&vendorItemId=95435850556" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/4078/6b76e01bed503109cd5749bd18daddce14067a7a419b271d2fe00e4f459b.jpg" alt="8위 - HEAVENLY JELLY Classic Suede Red" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**HEAVENLY JELLY Classic Suede Red**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9547903162&traceid=V0-153&itemId=28485762319&vendorItemId=95435850556)
 
@@ -159,7 +159,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 - 가격: ~~91,000원~~ → **74,680원** (17% 할인)
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9547903162&traceid=V0-153&itemId=28485762319&vendorItemId=95435850556" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9547903162&traceid=V0-153&itemId=28485762319&vendorItemId=95435850556" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -167,7 +167,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 9위 — Wa365 젤리샌들 여성슈즈
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9390949462&traceid=V0-153&itemId=27887653409&vendorItemId=78902148364" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/31e8/35873d45fc44b11400149ed0ebb03b76fabbf01c78ecd192cba034a98bc5.png" alt="9위 - Wa365 젤리샌들 여성슈즈" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9390949462&traceid=V0-153&itemId=27887653409&vendorItemId=78902148364" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/31e8/35873d45fc44b11400149ed0ebb03b76fabbf01c78ecd192cba034a98bc5.png" alt="9위 - Wa365 젤리샌들 여성슈즈" style="max-width:200px;height:auto;float:left;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**Wa365 젤리샌들 여성슈즈**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9390949462&traceid=V0-153&itemId=27887653409&vendorItemId=78902148364)
 
@@ -176,7 +176,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 - 가격: ~~13,800원~~ → **6,990원** (49% 할인)
 - 리뷰수: 38개
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9390949462&traceid=V0-153&itemId=27887653409&vendorItemId=78902148364" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9390949462&traceid=V0-153&itemId=27887653409&vendorItemId=78902148364" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
@@ -184,7 +184,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 ### 10위 — HEAVENLY JELLY kyungwanxon SET Allu
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9541824526&traceid=V0-153&itemId=28463077317&vendorItemId=95421349635" target="_blank" rel="nofollow sponsored noopener"><img src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/619f/6afb5f798d7a7f05c3add3580e298ba42902087ef6deb6dd373f8ce0a870.jpg" alt="10위 - HEAVENLY JELLY kyungwanxon SET Allure Clear 01" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
+<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9541824526&traceid=V0-153&itemId=28463077317&vendorItemId=95421349635" target="_blank" rel="nofollow sponsored noopener"><img class="cpg-img" src="https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/619f/6afb5f798d7a7f05c3add3580e298ba42902087ef6deb6dd373f8ce0a870.jpg" alt="10위 - HEAVENLY JELLY kyungwanxon SET Allure Clear 01" style="max-width:200px;height:auto;float:right;margin:0 12px 10px 0;border-radius:6px;"></a>
 
 [**HEAVENLY JELLY kyungwanxon SET Allure Clear 01**](https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9541824526&traceid=V0-153&itemId=28463077317&vendorItemId=95421349635)
 
@@ -192,7 +192,7 @@ images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/imag
 
 - 가격: **144,100원**
 
-<a href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9541824526&traceid=V0-153&itemId=28463077317&vendorItemId=95421349635" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
+<a class="cpg-btn" href="https://link.coupang.com/re/AFFSDP?lptag=AF5108917&subid=githubgithub&pageKey=9541824526&traceid=V0-153&itemId=28463077317&vendorItemId=95421349635" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;padding:6px 14px;background:#e4000f;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;font-size:13px;">👉 상품 보기</a>
 
 <div style="clear:both;"></div>
 
