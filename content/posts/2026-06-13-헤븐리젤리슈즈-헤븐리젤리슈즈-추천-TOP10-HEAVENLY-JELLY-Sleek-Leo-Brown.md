@@ -6,8 +6,8 @@ categories: ["shopping"]
 tags: ["Top10", "shopping", "헤븐리젤리슈즈"]
 keywords: ["헤븐리젤리슈즈", "Top10", "shopping"]
 author: "pemtpemt14"
-description: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
-summary: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
+description: "헤븐리젤리슈즈 카테고리에서 최근 데이터 기준 가장 많이 선택되는 상품 10개를 모았습니다. 📌 핵심 요약 추천 1위: HEAVENLY JELLY Sleek Leo Brown 가격대: 32,460원 · 39,800원 · 32,460원 위 — HEAVENLY JELLY…"
+summary: "헤븐리젤리슈즈 카테고리에서 최근 데이터 기준 가장 많이 선택되는 상품 10개를 모았습니다. 📌 핵심 요약 추천 1위: HEAVENLY JELLY Sleek Leo Brown 가격대: 32,460원 · 39,800원 · 32,460원 위 — HEAVENLY JELLY…"
 cover:
   image: "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/acd3/46f458371977fa1cb35d30cc1ce9850e1de6be9444742f1f2068b21f7d72.jpg"
   alt: "헤븐리젤리슈즈 추천 TOP10 — HEAVENLY JELLY Sleek Leo Brown"

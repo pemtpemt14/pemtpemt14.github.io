@@ -6,8 +6,8 @@ categories: ["shopping"]
 tags: ["Top10", "shopping", "어그샌들"]
 keywords: ["어그샌들", "Top10", "shopping"]
 author: "pemtpemt14"
-description: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
-summary: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
+description: "어그샌들 인기 상품을 가격·평점·리뷰 기준으로 정리한 TOP10 추천 리스트입니다. 어그샌들은 편안함과 스타일을 동시에 원하는 분들의 필수 아이템입니다. 통굽 디자인으로 자연스러운 키높이를 연출하면서도 경량의 EVA 소재가 장시간 착용해도 발이 편하다는 점이 가장…"
+summary: "어그샌들 인기 상품을 가격·평점·리뷰 기준으로 정리한 TOP10 추천 리스트입니다. 어그샌들은 편안함과 스타일을 동시에 원하는 분들의 필수 아이템입니다. 통굽 디자인으로 자연스러운 키높이를 연출하면서도 경량의 EVA 소재가 장시간 착용해도 발이 편하다는 점이 가장…"
 cover:
   image: "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/9f0a/c697184b7b4acbac440ef0261bcb23fc662a910fc7bedb9e1cdcb9d7e58c.jpg"
   alt: "어그샌들 추천 TOP10 — UGG 어그 26SS Golden Glow 샌들 통굽"
