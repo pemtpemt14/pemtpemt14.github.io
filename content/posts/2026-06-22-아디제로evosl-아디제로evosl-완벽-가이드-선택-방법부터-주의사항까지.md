@@ -13,6 +13,9 @@ cover:
   alt: "아디제로evosl 완벽 가이드 — 선택 방법부터 주의사항까지"
   relative: false
 images: ["https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/5b30/cafcfeed7014cb2b8bb66db0978a1cf242e2a8dafcdc3c6fe91a356b8142.png"]
+robotsNoIndex: true
+sitemap:
+  disable: true
 ---
 
 '아디제로evosl'은 가벼운 러닝화로, 빠른 조깅부터 기록 향상 훈련까지 필요한 제품입니다.

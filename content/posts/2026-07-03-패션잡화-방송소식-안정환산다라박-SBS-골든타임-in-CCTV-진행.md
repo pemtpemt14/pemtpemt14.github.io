@@ -13,6 +13,9 @@ cover:
   alt: "[방송소식] 안정환·산다라박, SBS '골든타임 in CCTV' 진행"
   relative: false
 images: ["https://img.yna.co.kr/etc/inner/KR/2026/07/03/AKR20260703074500005_01_i_P2.jpg"]
+robotsNoIndex: true
+sitemap:
+  disable: true
 ---
 
 <p><img src="https://img.yna.co.kr/etc/inner/KR/2026/07/03/AKR20260703074500005_01_i_P2.jpg" alt="[방송소식] 안정환·산다라박, SBS '골든타임 in CCTV' 진행" style="max-width:100%;border-radius:8px;"></p>
